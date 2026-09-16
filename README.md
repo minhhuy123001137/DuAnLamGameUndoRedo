@@ -9,4 +9,4 @@ Cách vận hành của game tập trung vào cơ chế điều khiển đơn gi
 
 **Nội dung và ý tưởng game được xây dựng và phát triển bởi: Huy.**
 
-** PROJECT NHÓM CTDL CỦA HUY NHÂN ĐỨC CƯỜNG**
+**PROJECT NHÓM CTDL CỦA HUY NHÂN ĐỨC CƯỜNG**
