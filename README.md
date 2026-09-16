@@ -8,4 +8,5 @@ Cách vận hành của game tập trung vào cơ chế điều khiển đơn gi
 Độ khó của game sẽ tăng dần theo từng màn chơi, với tốc độ di chuyển nhanh hơn và các chướng ngại vật được sắp xếp phức tạp hơn. Mục tiêu của người chơi là vượt qua màn chơi, đạt thành tích tốt và thử thách khả năng phản xạ của bản thân.
 
 **Nội dung và ý tưởng game được xây dựng và phát triển bởi: Huy.**
+
 ** PROJECT NHÓM CTDL CỦA HUY NHÂN ĐỨC CƯỜNG**
